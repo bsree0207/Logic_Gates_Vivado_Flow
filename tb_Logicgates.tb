@@ -1,0 +1,18 @@
+` timescale 1ns/1ps;
+module tb_Logicgates;
+reg  a;
+reg  b;
+wire y_and;
+wire y_or;
+wire y_not;
+wire y_xor;
+wire y_xnor;
+ Logicgates uut(a,b,y_and,y_or,y_not,y_xor,y_xnor);
+initial begin 
+ a= 0;b=0;#5;
+ a= 0;b=1;#5;
+ a= 1;b=0;#5;
+ a= 1;b=1;#5;
+ $finish;
+end 
+ endmodule
