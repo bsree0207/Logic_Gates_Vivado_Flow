@@ -1,4 +1,4 @@
-# FPGA Logic Gates Implementation using Verilog (Vivado)
+<img width="732" height="596" alt="image" src="https://github.com/user-attachments/assets/c32d10e7-06ce-4900-a523-9b68a6fff75a" /># FPGA Logic Gates Implementation using Verilog (Vivado)
 
 ## 📌 Project Overview
 
@@ -51,7 +51,8 @@ The simulation waveform verifies correct functionality of all implemented logic 
 
 ## 📷 Simulation Output
 
-(Add waveform screenshot here)
+<img width="732" height="596" alt="image" src="https://github.com/user-attachments/assets/928da5ab-e216-4d62-9c17-2351f25e74c7" />
+
 
 ## 📚 Concepts Covered
 
