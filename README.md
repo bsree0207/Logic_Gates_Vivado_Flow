@@ -1,4 +1,3 @@
-<img width="732" height="596" alt="image" src="https://github.com/user-attachments/assets/c32d10e7-06ce-4900-a523-9b68a6fff75a" /># FPGA Logic Gates Implementation using Verilog (Vivado)
 
 ## 📌 Project Overview
 
